@@ -1,0 +1,37 @@
+libAutoEnhance.so
+libMLDAP.so
+libMcClient.so
+libMcRegistry.so
+libOpenCL.so
+libOpenCv.so
+libPhotoEnhance.so
+libSDKRecognitionText.so
+libSamsungPkcs11Wrapper.so
+libSecMMCodec.so
+lib_AnimationEngine_N.so 64
+libapa_jni.so
+libexifa.so
+libjack.so
+libjpega.so
+libknox_remotedesktopclient.so
+libopensslsmime.so
+libquram.so
+libremotedesktop_client.so
+libsaiv.so
+libsaiv_HprFace_FD_jni.so
+libsaiv_HprFace_LD_jni.so
+libsaiv_HprFace_utils_jni.so
+libsaiv_nightshot.so
+libsaiv_vision.so
+libsechelper_engine.so
+libsecimaging.so
+libsecjpeginterface.so
+libsecpkcs11_engine.so
+libsecure_storage_jni.so
+libsmart_cropping.so
+libsomp.so
+libsurfaceutil.so
+libtlc_tz_ccm.so
+libtmdisplay.so
+libvideoeditor_N_za.so 64
+libvideoeditor_jni_N_za.so 64
